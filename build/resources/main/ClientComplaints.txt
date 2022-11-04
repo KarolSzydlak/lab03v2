@@ -1,0 +1,2 @@
+Id klienta; blah; blah;
+1; karol; 1; 6; traktor;
